@@ -1,5 +1,5 @@
-this is a greet message.
-testing..
-editing now ..
 
-week ago week ago..
+
+this is from remote repo
+
+
